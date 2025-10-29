@@ -85,7 +85,6 @@ Halaman ini berisi:
 - Di sisi kanan, terdapat nama lengkap **Muhammad Raffi Pasya Perdana** dan deskripsi singkat:
   > “Perkenalkan, saya Muhammad Raffi Pasya Perdana – seorang pengembang web yang suka membuat antarmuka yang bersih dan responsif menggunakan Bootstrap.”
 
-Di bawahnya terdapat 3 card proyek pada bagian **Portfolio Saya**, masing-masing berisi gambar dummy dan deskripsi singkat proyek.
 <img width="1366" height="631" alt="Screenshot 2025-10-29 124618" src="https://github.com/user-attachments/assets/b92b7ebe-2f20-4e09-b86c-100d80ba2bb3" />
 
 
