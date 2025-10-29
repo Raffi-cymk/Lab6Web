@@ -77,6 +77,7 @@ Form ini hanya bersifat **tampilan (frontend)** untuk latihan penggunaan kompone
 Ketika tombol **Kirim** ditekan, tidak terjadi aksi apapun karena belum terhubung ke server/backend.  
 Hal ini **sesuai dengan instruksi praktikum** yang hanya menekankan pada desain tampilan, bukan fungsi pengiriman data.
 
+
 ---
 
 ### 💼 7 — Tampilan Halaman Portfolio
@@ -87,6 +88,10 @@ Halaman ini berisi:
 
 <img width="1366" height="631" alt="Screenshot 2025-10-29 124618" src="https://github.com/user-attachments/assets/b92b7ebe-2f20-4e09-b86c-100d80ba2bb3" />
 
+**Catatan:**
+Bagian tiga *card proyek* di bawahnya sengaja tidak disertakan dalam screenshot,
+karena pada saat praktikum bagian tersebut belum diisi kontennya (masih berupa struktur kosong).
+Fokus screenshot ini hanya menampilkan bagian profil pribadi yang sudah selesai dikerjakan.
 
 ---
 
